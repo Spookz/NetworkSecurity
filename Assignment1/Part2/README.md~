@@ -11,7 +11,7 @@ Part 1 Completion
 
 - Script SHALL copy letter subdirectories and contents from Part1 directory to Part2 directory 
 
-- Script SHALL iterate letter subdirectories starting with a ending with z
+- Script SHALL iterate letter subdirectories starting with z ending with a
 
 - Script SHALL create a file reversewords.txt in Part2 directory
 
