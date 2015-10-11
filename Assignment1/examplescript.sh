@@ -4,7 +4,7 @@
 # one letter, identified by ^ and $ with F-Zm-z in brackets
 # capital F through Z OR m through z
 regex='^[F-Zm-z]$'
-
+z
 # for loop to iterate through lower case letters
 for i in {a..z}
 do
